@@ -19,8 +19,8 @@
 -->
 <resources>
     
-    <color name="filelist_icon_backgorund">#DDDDDD</color>
-    <color name="owncloud_blue_bright">#00ddff</color>
+    <color name="filelist_icon_backgorund">#ffffff</color>
+    <color name="owncloud_blue_bright">#f58221</color>
     <color name="list_item_lastmod_and_filesize_text">#989898</color>
     <color name="textColor">#303030</color>
     <color name="list_divider_background">#fff0f0f0</color>
